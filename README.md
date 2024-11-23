@@ -29,7 +29,7 @@ cd ~/Documents/Toolkit
 4. Copy This Command To CMD (If This Doesn't Work You Can Use Git CMD)
 
 ```
-git clone https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus.git -b TWRP
+git clone https://github.com/HaHmada/Toolkit-To-Install-OrangeFox-For-Certus.git -b OrangeFox
 ```
 
 5. Open Notepad++, And Paste In Notepad++
