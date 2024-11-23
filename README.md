@@ -14,7 +14,7 @@ Tools
 
 - [Notepad++](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/bef2b9f5-438d-4a80-b556-86ae83d9273c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T104207Z&X-Amz-Expires=300&X-Amz-Signature=069c39f35581277ecf70c30d0e5b4cdf64cabcefd6a0dc847fb6d23edf26dc75&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.1.Installer.x64.exe&response-content-type=application%2Foctet-stream "Notepad++")
 
-**Note**: Extract OrangeFox Files Before Starting
+**Note**: Extract OrangeFox Files Before Starting Creation & Copy recovery.img To Folder Toolkit
 
 After You Install Everything, Follow This Steps
 
