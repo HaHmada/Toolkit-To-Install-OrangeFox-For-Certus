@@ -1,6 +1,6 @@
-**Toolkit FlashTWRP For Redmi 6/6A** 
+**Toolkit Flash OrangeFox For Redmi 6/6A** 
 
-This Toolkit Makes It Easy For You To Install TWRP On Redmi 6/6A With Your Computer
+This Toolkit Makes It Easy For You To Install OrangeFox On Redmi 6/6A With Your Computer
 
 **Warning!!!** This Toolkit Only For Windows XP Or New Version Of Windows 
 
