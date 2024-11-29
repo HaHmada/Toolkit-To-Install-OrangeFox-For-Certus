@@ -20,10 +20,10 @@ After You Install Everything, Follow This Steps
 
 1. Make Folder (Folder Name Examples "Toolkit")
 
-2. Open CMD And Open Toolkit Folder In CMD
+2. Open CMD And Open The Toolkit Folder In CMD
 
 ```
-cd ~/Documents/Toolkit
+cd Documents/Toolkit
 ```
 
 4. Copy This Command To CMD (If This Doesn't Work You Can Use Git CMD)
