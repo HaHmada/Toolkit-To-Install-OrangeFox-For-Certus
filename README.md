@@ -26,21 +26,21 @@ After You Install Everything, Follow This Steps
 cd Documents
 ```
 
-4. Copy This Command To CMD (If This Doesn't Work You Can Use Git CMD)
+3. Copy This Command To CMD (If This Doesn't Work You Can Use Git CMD)
 
 ```
 git clone https://github.com/HaHmada/Toolkit-To-Install-OrangeFox-For-Certus.git -b OrangeFox
 ```
 
-5. After That Go To The Toolkit Folder
+4. After That Go To The Toolkit Folder
 
 ```
 cd Toolkit-To-Install-OrangeFox-For-Certus
 ```
 
-6. Put The "recovery.img" File Into The Toolkit-To-Install-OrangeFox-For-Certus Folder
+5. Put The "recovery.img" File Into The Toolkit-To-Install-OrangeFox-For-Certus Folder
 
-7. Open Notepad++, And Paste In Notepad++
+6. Open Notepad++, And Paste In Notepad++
 
 ```
 @echo off
@@ -92,7 +92,7 @@ pause  >NUL
 EXIT
 ```
 
-8. Once you are done, click CTRL+SHIFT+S & Following This Settings
+7. Once you are done, click CTRL+SHIFT+S & Following This Settings
 
 Location: C:/Users/user/Documents/Toolkit-To-Install-OrangeFox-For-Certus
 
@@ -100,4 +100,4 @@ File name: Toolkit.bat
 
 Save as type: All types (*.*)
 
-9. Finish You Can Use This Toolkit
+8. Finish You Can Use This Toolkit
