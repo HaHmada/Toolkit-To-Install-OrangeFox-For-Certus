@@ -1,6 +1,6 @@
-**Toolkit Flash OrangeFox For Redmi 6/6A** 
+**Toolkit Flash OrangeFox Recovery For Redmi 6/6A** 
 
-This Toolkit Makes It Easy For You To Install OrangeFox On Redmi 6/6A With Your Computer
+This Toolkit Makes It Easy For You To Install OrangeFox Recovery On Redmi 6/6A With Your Computer
 
 **Warning!!!** This Toolkit Only For Windows XP Or New Version Of Windows 
 
@@ -10,7 +10,7 @@ Tools
 
 - [Git For Windows](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/bfdf16e8-03fa-4c64-a1d3-a789f642fcc4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T103538Z&X-Amz-Expires=300&X-Amz-Signature=a7a9c536d49566e7816a0f575bca08b26531e733d9afd5a8b70f0813e5379f6b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.47.0.2-64-bit.exe&response-content-type=application%2Foctet-stream "Git")
 
-- [OrangeFox For Certus](https://dl.orangefox.download/62408c446a44bc73841965cf "OrangeFox")
+- [OrangeFox Recovery For Certus](https://dl.orangefox.download/62408c446a44bc73841965cf "OrangeFox")
 
 - [Notepad++](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/bef2b9f5-438d-4a80-b556-86ae83d9273c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T104207Z&X-Amz-Expires=300&X-Amz-Signature=069c39f35581277ecf70c30d0e5b4cdf64cabcefd6a0dc847fb6d23edf26dc75&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.1.Installer.x64.exe&response-content-type=application%2Foctet-stream "Notepad++")
 
