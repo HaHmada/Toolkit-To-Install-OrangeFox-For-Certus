@@ -8,11 +8,15 @@ This Toolkit Makes It Easy For You To Install OrangeFox Recovery On Redmi 6/6A W
 
 Tools
 
-- [Git For Windows](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/bfdf16e8-03fa-4c64-a1d3-a789f642fcc4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T103538Z&X-Amz-Expires=300&X-Amz-Signature=a7a9c536d49566e7816a0f575bca08b26531e733d9afd5a8b70f0813e5379f6b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.47.0.2-64-bit.exe&response-content-type=application%2Foctet-stream "Git")
-
 - [OrangeFox Recovery For Certus](https://dl.orangefox.download/62408c446a44bc73841965cf "OrangeFox")
 
-**Notepad++ Version**
+**Git For Windows Versions**
+
+- [Git For Windows (32-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/3a299a53-faf3-4a79-b4f5-bc1b0bd64f74?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T124320Z&X-Amz-Expires=300&X-Amz-Signature=91f5e2d35ff6633fd1677dffa6ba06a7e413695db401841627db031ad54e2dd2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.47.1-32-bit.exe&response-content-type=application%2Foctet-stream "Git-For-Windows_32-bit")
+
+- [Git For Windows (64-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/23216272/67e30882-badc-4f28-a242-90f27d9ed99d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T124520Z&X-Amz-Expires=300&X-Amz-Signature=6225f1644bf93572e9185340d9f49716f4ea6fd267ff34d22988782aed287675&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DGit-2.47.1-64-bit.exe&response-content-type=application%2Foctet-stream "Git-For-Windows_64-bit")
+
+**Notepad++ Versions**
 
 - [Notepad++ x86 (32-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/cddd26c4-d387-4259-ba6c-cefba3b02e13?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T123354Z&X-Amz-Expires=300&X-Amz-Signature=f5ca99e3fa48aba1309bccdca9e3b6189e8dc052cfe78781ed4d73d2816f5c59&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.2.Installer.exe&response-content-type=application%2Foctet-stream "Notepad++_x86")
 
