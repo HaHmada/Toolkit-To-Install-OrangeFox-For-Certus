@@ -12,7 +12,11 @@ Tools
 
 - [OrangeFox Recovery For Certus](https://dl.orangefox.download/62408c446a44bc73841965cf "OrangeFox")
 
-- [Notepad++](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/bef2b9f5-438d-4a80-b556-86ae83d9273c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T104207Z&X-Amz-Expires=300&X-Amz-Signature=069c39f35581277ecf70c30d0e5b4cdf64cabcefd6a0dc847fb6d23edf26dc75&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.1.Installer.x64.exe&response-content-type=application%2Foctet-stream "Notepad++")
+**Notepad++ Version**
+
+- [Notepad++ x86 (32-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/cddd26c4-d387-4259-ba6c-cefba3b02e13?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T123354Z&X-Amz-Expires=300&X-Amz-Signature=f5ca99e3fa48aba1309bccdca9e3b6189e8dc052cfe78781ed4d73d2816f5c59&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.2.Installer.exe&response-content-type=application%2Foctet-stream "Notepad++_x86")
+
+- [Notepad++ ARM64/x86_64 (64-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/a768fb53-85e0-4176-bb94-2f0a48463375?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T123713Z&X-Amz-Expires=300&X-Amz-Signature=469ddee8bc51648bad2e4ef8c8e4f3c958978c6f4bad7371d3c7cd256eb0a206&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.2.Installer.arm64.exe&response-content-type=application%2Foctet-stream "Notepad++_ARM64")
 
 **Note**: Extract OrangeFox Files Before Starting Building
 
