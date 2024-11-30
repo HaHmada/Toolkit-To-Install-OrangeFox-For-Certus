@@ -109,3 +109,14 @@ File name: Toolkit.bat
 Save as type: All types (*.*)
 
 8. Finish You Can Use This Toolkit
+
+**Error Solution**
+
+If Your Devices Are Not Detected Like This
+
+```
+< waiting for any device >
+```
+You Must Install Driver For Redmi 6/6A, Click the Link Below
+
+<a href="https://xiaomidriver.com/xiaomi-redmi-6a"><img src="https://img.shields.io/badge/Driver%20For-Redmi%206/6A-orange?style=flat&logo=xiaomi" /></a>
