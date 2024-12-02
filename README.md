@@ -1,10 +1,10 @@
-**Toolkit Flash OrangeFox Recovery For Redmi 6/6A** 
+# Toolkit Flash OrangeFox Recovery For Redmi 6/6A
 
 This Toolkit Makes It Easy For You To Install OrangeFox Recovery On Redmi 6/6A With Your Computer
 
 **Warning!!!** This Toolkit Only For Windows XP Or New Version Of Windows 
 
-**You Can Create This Toolkit (Only For Windows 7 or New Version)**
+# You Can Create This Toolkit (Only For Windows 7 or New Version)
 
 Tools
 
@@ -110,7 +110,7 @@ Save as type: All types (*.*)
 
 8. Finish You Can Use This Toolkit
 
-**Error Solution**
+# Error Solution
 
 If Your Devices Are Not Detected Like This
 
