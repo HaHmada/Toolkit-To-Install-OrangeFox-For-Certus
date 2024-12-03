@@ -1,6 +1,7 @@
 # Toolkit Flash OrangeFox Recovery For Redmi 6/6A
 
-
+**->** `Toolkit Display Photo`
+![Version 1.0](assets/Toolkit-Flash-OrangeFox-Recovery-For-Certus.png)
 
 This Toolkit Makes It Easy For You To Install OrangeFox Recovery On Redmi 6/6A With Your Computer
 
