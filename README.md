@@ -51,12 +51,12 @@ git clone https://github.com/HaHmada/Toolkit-To-Install-OrangeFox-For-Certus.git
 
 ```
 @echo off
-TITLE Toolkit Flash TWRP By HaH Mada
+TITLE Toolkit Flash OrangeFox Recovery By HaH Mada
 color 37
 Mode con: COLS=75 LINES=40
 echo.
 echo     ************************************************************
-echo     *******           Toolkit Flash OrangeFox            *******
+echo     *******       Toolkit Flash OrangeFox Recovery       *******
 echo     *******                 By HaH mada                  *******
 echo     ************************************************************
 echo     *******                 Redmi 6/6A                   *******
