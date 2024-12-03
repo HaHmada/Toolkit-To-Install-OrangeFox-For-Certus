@@ -40,11 +40,7 @@ cd Documents
 git clone https://github.com/HaHmada/Toolkit-To-Install-OrangeFox-For-Certus.git -b OrangeFox
 ```
 
-4. After That Go To The Toolkit Folder
-
-```
-cd Toolkit-To-Install-OrangeFox-For-Certus
-```
+4. After That Close CMD
 
 5. Put The "recovery.img" File Into The Toolkit-To-Install-OrangeFox-For-Certus Folder
 
