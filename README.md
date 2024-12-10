@@ -9,6 +9,9 @@ This Toolkit Makes It Easy For You To Install OrangeFox Recovery On Redmi 6/6A W
 
 # You Can Create This Toolkit (Only For Windows 7 or New Version)
 
+<details>
+	 <summary><b>Click Here To Start Build</b></summary>
+
 Tools
 
 - [OrangeFox Recovery For Certus](https://dl.orangefox.download/62408c446a44bc73841965cf "OrangeFox")
@@ -108,6 +111,8 @@ File name: Toolkit.bat
 Save as type: All types (*.*)
 
 8. Finish You Can Use This Toolkit
+
+<details>
 
 # Error Solution
 
